@@ -56,7 +56,7 @@ function Intro() {
           <img 
           src={profilePhoto} 
           alt="profile image" 
-          className="  w-[250px] h-[270px]  md:h-[350px] xl:h-[450px] 2xl:h-[500px]  xl:w-[400px] md:w-[330px]  2xl:w-[450px]  rounded-3xl  object-cover object-top"
+          className="  w-[250px] h-[270px]  md:h-[350px] xl:h-[450px] 2xl:h-[500px]  xl:w-[400px] md:w-[330px]  2xl:w-[450px]  rounded-3xl  object-cover object-center"
         />
       </div>
       
